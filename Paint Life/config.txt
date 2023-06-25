@@ -1,0 +1,77 @@
+Resolución_mínima: 1
+Microsoft_Paint(1:si,0:no): 0
+Nombre: f
+Pixeles_Horizontal: 300
+Pixeles_Vertical: 200
+Variaciones_de_ruido_solo: 2
+Variaciones_de_desplazamiento_solo: 2
+Variaciones_de_ruido_y_desplazamiento: 2
+Variaciones_de_reflexion(1:si,0:no): 1
+Rango_de_variación_de_ruido: 50
+Rango_de_variación_de_desplazamiento: 100
+
+Colores:
+
+12
+12
+12
+
+0
+55
+218
+
+19
+161
+14
+
+58
+150
+221
+
+197
+15
+31
+
+136
+23
+152
+
+193
+156
+0
+
+204
+204
+204
+
+118
+118
+118
+
+59
+120
+255
+
+22
+198
+12
+
+97
+214
+214
+
+231
+72
+86
+
+180
+0
+158
+
+249
+241
+145
+
+255
+255
+255
